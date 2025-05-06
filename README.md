@@ -41,7 +41,7 @@ Catégories dynamiques (ajout/suppression)
 
 Tarification selon catégorie + nombre de personnes
 
-
+_________
 📅 Réservations
 Recherche de disponibilités selon critères
 
@@ -53,7 +53,7 @@ Confirmation par email
 
 Annulation possible (toute la réservation)
 
-
+_________
 🧾 Séjour et facturation
 Vérification à l’arrivée (identité, nombre de personnes)
 
@@ -63,7 +63,7 @@ Prise en compte des prestations en fin de séjour (bar, petit-déjeuner, etc.)
 
 Facture finale avec total, paiements, solde
 
-
+_________
 ☕ Prestations
 Bar, petit-déjeuners (en salle ou en chambre)
 
@@ -71,7 +71,7 @@ Prix évolutifs
 
 Enregistrement des prestations avec date et numéro de chambre
 
-
+_________
 📈 Suivi & rapports
 Liste des arrivées du jour
 
